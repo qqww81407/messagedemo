@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662375937421",
+    "project_id": "lccnotify-62027",
+    "storage_bucket": "lccnotify-62027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662375937421:android:a259da7456dd8a46ab79c4",
+        "android_client_info": {
+          "package_name": "tw.com.messagedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662375937421-tdrks6hqfhiuis3b3lr7q2gn8enckldt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHrBgGfLX8mVA2Hr0yplOCodccHUUH0cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662375937421-tdrks6hqfhiuis3b3lr7q2gn8enckldt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
